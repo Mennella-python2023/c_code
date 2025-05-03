@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/Desktop/c_code",
-      "program": "c:/Users/acer/Desktop/c_code/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/Desktop/C_code",
+      "program": "c:/Users/acer/Desktop/C_code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
