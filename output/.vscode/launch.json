@@ -1,8 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
-
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -10,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/Desktop/C_code",
-      "program": "c:/Users/acer/Desktop/C_code/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/Desktop/C_code/output",
+      "program": "c:/Users/acer/Desktop/C_code/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
