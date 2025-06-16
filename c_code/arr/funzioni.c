@@ -1,6 +1,6 @@
 
 // funzioni.c
-#include "aux.h"
+#include "aux1.h"
 
 char* confronti_positivi(int* a, int n, int x) {
     if (a == NULL || n <= 0) {
