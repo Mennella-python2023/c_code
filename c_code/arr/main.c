@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "aux1.h"
+#include "funzioni.h"
 
 int main() {
     int a[] = {-10, 8, -1, -7, 4, 7, -10, 6, 3};

@@ -3,13 +3,13 @@
 EXEC = programma
 
 # File sorgenti
-SRCS = main.c funzioni.c 
+SRCS = main.c funzioni.c
 
 # Compilatore
 CC = gcc
 
 # Opzioni
-CFLAGS = -Wall
+CFLAGS = -Wall -Wextra -std=c11
 
 # Regola principale
 all: $(EXEC)
